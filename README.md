@@ -1,7 +1,8 @@
 # flutter_flip_card_animation
 
 This project is a Flutter-based application that demonstrates a flip card animation using custom widgets and animations. The app allows users to interact with a series of cards, each of which can be flipped to reveal additional information on the back. The project is designed to showcase how to create visually appealing and interactive UI components in Flutter, such as flip animations, responsive layouts, and dynamic content rendering.
-Key Features of the Project
+
+# Key Features of the Project
 
     Flip Card Animation:
 
@@ -31,7 +32,8 @@ Key Features of the Project
 
         The app uses sample data (e.g., cardImages, titles, subTitles, and descriptions) to populate the cards. This data is stored in a separate file (sample_data.dart) for easy management.
 
-Project Structure
+
+# Project Structure
 
 The project is organized into several key files:
 
@@ -55,7 +57,8 @@ The project is organized into several key files:
 
         Contains sample data (e.g., images, titles, subtitles, and descriptions) used to populate the cards.
 
-How It Works
+
+# How It Works
 
     User Interaction:
 
